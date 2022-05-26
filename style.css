@@ -1,0 +1,75 @@
+body{
+    margin :10px ; 
+    padding: 5px;
+    background-color: bisque;
+    
+}
+
+
+
+h1{
+    text-align: center;
+    color: grey ;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-content: space-between;
+    width: 100%;
+    padding: 5px;
+   
+    
+    
+    
+}
+
+.para-styling{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+div button{
+
+    background-color: lightgreen;
+}
+.container{
+    
+}
+ #middle{
+    border-style: solid;
+   text-align: center;
+   padding: 5px;
+
+    
+    width:50%;
+
+
+}
+
+.right{
+    border-style: solid;
+    width: 25%;
+}
+
+.left{
+    border-style: solid;
+    width: 25%;
+}
+
+
+#btn{
+    border-radius: 5px;
+    width:10%;
+    height: 35px;
+}
+
+#input{
+
+    width:60%;
+    height: 30px;
+    
+
+}
